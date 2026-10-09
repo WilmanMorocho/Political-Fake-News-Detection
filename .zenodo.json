@@ -1,0 +1,26 @@
+{
+    "title": "Evaluación de rendimiento de la arquitectura Transformer frente a clasificadores lineales en la detección de desinformación política en español",
+    "description": "Repositorio que contiene los notebooks, modelos entrenados, y scripts del Trabajo de Integración Curricular (TIC) para la detección de desinformación política en español. El proyecto compara el rendimiento predictivo (F1-Score) y el costo computacional (Tiempo, Memoria) de la arquitectura BETO frente a modelos lineales (SVM, Regresión Logística).",
+    "access_right": "open",
+    "creators": [
+        {
+            "name": "Morocho Carrión, Wilman Alejandro",
+            "affiliation": "Universidad Nacional de Loja"
+        }
+    ],
+    "keywords": [
+        "Machine Learning",
+        "NLP",
+        "Fake News Detection",
+        "Desinformación",
+        "Spanish",
+        "Transformers",
+        "BETO",
+        "SVM",
+        "Logistic Regression",
+        "CRISP-ML(Q)"
+    ],
+    "upload_type": "software",
+    "license": "MIT",
+    "language": "spa"
+}
